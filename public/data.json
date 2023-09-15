@@ -1,0 +1,75 @@
+[
+    {
+        "id":"ABC123XYZ",
+        "img":"https://i.ibb.co/8Pq7wVs/Rectangle-2-2.png",
+        "title":"Introduction to C Programming",
+        "description":"A versatile language for system-level and application development, known for its efficiency and low-level hardware control",
+        "price":1500,
+        "credit":1
+    },
+    {
+        "id":"987PQR456",
+        "img":"https://i.ibb.co/DRSp2hx/Rectangle-2-3.png",
+        "title":"Introduction to Algorithms.",
+        "description":"Step-by-step procedures to solve problems efficiently, a foundation of computer science and programming.",
+        
+        "price":2500,
+        "credit":2
+    },
+    {
+        "id":"DEF789ABC",
+        "img":"https://i.ibb.co/ZLG2Ydh/Rectangle-2-4.png",
+        "title":"Introduction to C++ for DSA",
+        "description":"C++ language application in Data Structures and Algorithms, commonly used for competitive programming and software development.",
+        "price":1000,
+        "credit":10
+    },
+    {
+        "id":"123XYZ789",
+        "img":"https://i.ibb.co/PMTvYsq/Rectangle-3.png",
+        "title":"Basic Data Structures",
+        "description":"Data structures are ways to organize and store data efficiently. Common data structures include arrays, linked lists, stacks, queues, trees, and graphs.",
+        "price":3500,
+        "credit":5
+    },
+    {
+        "id":"GHI456DEF",
+        "img":"https://i.ibb.co/xjgcKz4/Rectangle-2.png",
+        "title":"Introduction to OOP Python",
+        "description":"Python's object-oriented programming capabilities, emphasizing class and object usage for modular and maintainable code.",
+        "price":1900,
+        "credit":5
+    },
+    {
+        "id":"456JKL123",
+        "img":"https://i.ibb.co/c6GJhyw/Rectangle-2-5.png",
+        "title":"Software Engineering",
+        "description":"A systematic approach to software development, covering design, testing, and maintenance of high-quality software systems.",
+        "price":2300,
+        "credit":2
+    },
+    {
+        "id":"MNO789PQR",
+        "img":"https://i.ibb.co/9cWsM9H/Rectangle-3-1.png",
+        "title":"AWS, Cloud Computing",
+        "description":"Amazon Web Services offers cloud services for scalable, flexible, and accessible computing resources over the internet.",
+        "price":3500,
+        "credit":5
+    },
+    {
+        "id":"789XYZ123",
+        "img":"https://i.ibb.co/6PKN5hB/Rectangle-2-1.png",
+        "title":"Database (MySQL)",
+        "description":"An open-source relational database system for efficient storage, retrieval, and management of structured data",
+        "price":1900,
+        "credit":5
+    },
+    {
+        "id":"STU456VWX",
+        "img":"https://i.ibb.co/vYpkcD8/Rectangle-2-6.png",
+        "title":"Problem-Solving",
+        "description":"The core skill of breaking down complex problems, devising solutions using algorithms and data structures in programming.",
+        "price":2300,
+        "credit":2
+    }
+]
